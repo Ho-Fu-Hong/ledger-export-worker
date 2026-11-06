@@ -1,0 +1,13 @@
+{
+  "Export": {
+    "BaseUrl": "https://ldg-export-int.sandsmacao.com/api/v1",
+    "ClientId": "lew-export-0823",
+    "ClientSecret": "iEnTSx58YHXRUWnEtGDgmHHkW8btSKL3hLAVn1BL"
+  },
+  "ConnectionStrings": {
+    "LedgerDb": "Server=ldg-sql-07.sandsmacao.com;Database=LedgerExport;User Id=svc_lew_worker;Password=s3O2MYXA6IP2y^VI3tiDdTw6;"
+  },
+  "Notify": {
+    "ApiKey": "d1d8cce01645c6b28240a55bc62f7c8f"
+  }
+}
