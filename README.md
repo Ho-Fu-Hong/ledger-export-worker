@@ -11,3 +11,7 @@ Scheduled worker that exports ledger snapshots for partner reconciliation.
 ## Run log
 
 - initial setup
+- export run 1
+
+
+Last update: 16:16 06/11/2026
