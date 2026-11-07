@@ -13,6 +13,7 @@ Scheduled worker that exports ledger snapshots for partner reconciliation.
 - initial setup
 - export run 1
 - export run 2
+- export run 3
 
 
-Last update: 16:16 06/11/2026
+Last update: 12:19 07/11/2026
